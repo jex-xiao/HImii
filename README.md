@@ -1,2 +1,2 @@
-# HImii
+# Himii
 Himii Engine
